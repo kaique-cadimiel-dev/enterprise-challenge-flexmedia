@@ -2,7 +2,7 @@
 
 ### 🚀 FIAP Challenge FlexMedia — Sprint 1  
 **Tema:** Totem inteligente com IA e interatividade  
-**Equipe:** [Insira os nomes dos integrantes do grupo]  
+**Equipe:** [Cloves Silva Filho, Jose Luiz de Oliveira Junior, Kaique Cadimiel Amasio De Souza]  
 **Ano:** 2025  
 
 ---
@@ -200,24 +200,7 @@ totem-flexbuy/
 
 ---
 
-## 👥 14. Autores  
-
-- [Nome 1] — [Função / RA]  
-- [Nome 2] — [Função / RA]  
-- [Nome 3] — [Função / RA]  
-- [Nome 4] — [Função / RA]  
-
----
-
-## 🧾 15. Licença  
+## 🧾 14. Licença  
 
 Este projeto foi desenvolvido para fins educacionais como parte do **Challenge FlexMedia – FIAP 2025**.  
-O uso, reprodução ou modificação fora do contexto acadêmico requer autorização dos autores e da instituição.  
-
----
-
-### 💬 Contato  
-
-📧 [E-mail do grupo ou responsável]  
-🏫 FIAP — Faculdade de Informática e Administração Paulista  
-📅 2025
+O uso, reprodução ou modificação fora do contexto acadêmico requer autorização dos autores e da instituição.
