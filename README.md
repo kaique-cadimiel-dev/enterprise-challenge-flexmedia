@@ -2,7 +2,7 @@
 
 ### 🚀 FIAP Challenge FlexMedia — Sprint 1  
 **Tema:** Totem inteligente com IA e interatividade  
-**Equipe:** [Cloves Silva Filho, Jose Luiz de Oliveira Junior, Kaique Cadimiel Amasio De Souza]  
+**Equipe:** Cloves Silva Filho, Jose Luiz de Oliveira Junior, Kaique Cadimiel Amasio De Souza
 **Ano:** 2025  
 
 ---
